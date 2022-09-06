@@ -1,0 +1,52 @@
+body{
+background-color:#52E5FD;
+text-align: center;
+     }
+.me{
+border-top-style: groove;
+border-right-style: double;
+border-bottom-style: groove;
+border-left-style: double;
+border-color: #F39D50;
+border-width: 20px;
+border-radius: 220px;
+/* margin-right: 50%;
+margin-left: 20%; */
+height: 200px;
+width: 150px;
+  }
+p{
+color: #059012;
+font-size: 20px
+}
+.heading{
+  font-size: 75px;
+  color: #059012;
+  border-style: solid;
+  border-color: #BC1032;
+  padding-top:  55px;
+  padding-bottom: 55px;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+b{
+  color: #200DBF;
+  font-size: 30px;
+}
+.school{
+  color: #200DBF;
+  font-size: 90px;
+}
+.pic{
+  background-color: #377D71
+}
+.P1{
+  height: 400px ;
+  width: 550px ;
+  border-style: ridge;
+  border-radius: 50px;
+}
+.vid{
+  height: 300px ;
+  width: 400px ;
+}
